@@ -1,0 +1,27 @@
+{
+  "response": [
+    {
+      "maintainer": "AlcInt",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Xiaomi 12T",
+      "filename": "",
+      "download": "",
+      "timestamp": ,
+      "md5": "",
+      "sha256": "",
+      "size": ,
+      "version": "",
+      "buildtype": "",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "initial_installation_images": [
+        "boot",
+        "vendor_boot"
+      ],
+      "extra_images": []
+    }
+  ]
+}
