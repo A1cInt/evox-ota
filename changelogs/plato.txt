@@ -1,1 +1,33 @@
+### 🇬🇧 English
+📧 What's inside:
+- EvoX 11.10
+- Eng preloader
+- Patched bootloader
+- GMS, BCR, Dolby Atmos
+- 01-08-2026 security patch
+- OTA
+- And many other things
 
+---
+
+### 🇷🇺 Русский
+📧 Что внутри:
+- EvoX 11.10
+- Инженерный прелоадер 
+- Пропатченный загрузчик
+- GMS, BCR, Dolby Atmos
+- Патч безопасности от 01.08.2026
+- Поддержка OTA-обновлений
+- И многое другое
+
+---
+
+### 🇮🇩 Indonesian
+📧 Apa yang ada di dalam:
+- EvoX 11.10
+- Eng preloader
+- Bootloader yang dipatch
+- GMS, BCR, Dolby Atmos
+- Patch keamanan 01-08-2026
+- OTA
+- Dan banyak hal lainnya
